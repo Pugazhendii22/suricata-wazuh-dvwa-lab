@@ -310,16 +310,3 @@ suricata-wazuh-dvwa-lab/
 - [ ] Custom Wazuh rules for DVWA-specific attack patterns
 
 ---
-
-## 👤 Author
-
-**Puga** — BCA Student, Christ Arts and Science College, Puducherry
-Aspiring SOC Analyst
-
-🔗 [GitHub](https://github.com/Pugazhendii22)
-
----
-
-## ⚠️ Disclaimer
-
-This lab was built for **educational purposes only**. All attacks were performed in an isolated local network against intentionally vulnerable systems owned and controlled by the author. Do not use these techniques against systems without explicit written permission.
