@@ -49,10 +49,10 @@ This lab replicates a realistic SOC monitoring scenario using entirely open-sour
 
 | Machine | Hostname | Role | OS | IP |
 |---|---|---|---|---|
-| Laptop | pugal-TravelLite | Wazuh Server v4.7.5 | Ubuntu | 192.168.0.x |
+| Laptop | pugal-TravelLite | Wazuh Server v4.7.5 | Ubuntu | 192.168.0.173 |
 | Extra PC 1 | suricata-nids | Suricata IDS + Wazuh Agent | Ubuntu | 192.168.0.155 |
 | Extra PC 2 | pugal1-H81 | Victim (DVWA) + Suricata + Wazuh Agent | Ubuntu | 192.168.0.203 |
-| Kali SSD | kali | Attacker | Kali Linux | 192.168.0.x |
+| Kali SSD | kali | Attacker | Kali Linux | 192.168.0.205 |
 
 All machines on the same LAN (192.168.0.0/24).
 
